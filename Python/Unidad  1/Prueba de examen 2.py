@@ -1,0 +1,10 @@
+lista= []
+bool= input("Ingrese el primer valor booleano: ")
+stri= input("Ingrese el segundo valor string: ")
+floa= input("Ingrese el tercer valor float: ")
+lista.append(stri)
+lista.append(bool)
+lista.append(floa)
+print(lista[0])
+print(lista[1])
+print(lista[2])
